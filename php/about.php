@@ -1,6 +1,6 @@
 <?php
-  $homePath = './';
-  $pagePath = './php/';
+  $homePath = '../';
+  $pagePath = './';
 ?>
 
 <!DOCTYPE html>
@@ -9,13 +9,14 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Caribbean Nature Seekers Institute - Trinidad and Tobago Chapter</title>
+  <title>About Us</title>
   <link rel="stylesheet" href="css/styles.css">
 </head>
 <body>
-<?php include('templates/header.php') ?>
+  <?php include('../templates/header.php') ?>
   <main>
+    <h1>About Us</h1>
   </main>
-  <?php include('templates/footer.php') ?>
+  <?php include('../templates/footer.php') ?>
 </body>
 </html>
