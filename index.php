@@ -9,8 +9,8 @@
     </title>
   </head>
   <body>
-    <header></header>
+    <?php include('templates/header.php') ?>
     <main></main>
-    <footer></footer>
+    <?php include('templates/footer.php') ?>
   </body>
 </html>
