@@ -10,5 +10,5 @@
   $query_builder = TRUE;
 
   // Connect to the database
-  $conn = mysqli_connect($cleardb_server, $cleardb_username, $cleardb_password, $cleardb_db) or die(mysqli_connect_error());
+  $con = mysqli_connect($cleardb_server, $cleardb_username, $cleardb_password, $cleardb_db) or die(mysqli_connect_error());
 ?>
