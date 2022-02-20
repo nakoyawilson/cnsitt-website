@@ -15,6 +15,9 @@
 <body>
 <?php include('templates/header.php') ?>
   <main>
+    <h1>Caribbean Nature Seekers Institute - Trinidad and Tobago Chapter</h1>
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Magnam velit, quia, voluptatem architecto exercitationem provident molestias vel ut dolores minus eos natus unde rerum sed excepturi harum voluptatibus iste officia?</p>
+    <h2>Featured Attractions</h2>
   </main>
   <?php include('templates/footer.php') ?>
 </body>
