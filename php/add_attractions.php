@@ -23,6 +23,7 @@
   <?php include('../templates/header.php') ?>
   <main>
     <h1>Add Attractions</h1>
+    <a href="./logout.php">Log out</a>
   </main>
   <?php include('../templates/footer.php') ?>
 </body>
